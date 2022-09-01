@@ -1,0 +1,8 @@
+C:\Users\games\OneDrive\Área de Trabalho\Lista 3\bin\Debug\Lista 3.exe.config
+C:\Users\games\OneDrive\Área de Trabalho\Lista 3\bin\Debug\Lista 3.exe
+C:\Users\games\OneDrive\Área de Trabalho\Lista 3\bin\Debug\Lista 3.pdb
+C:\Users\games\OneDrive\Área de Trabalho\Lista 3\obj\Debug\Lista 3.csproj.AssemblyReference.cache
+C:\Users\games\OneDrive\Área de Trabalho\Lista 3\obj\Debug\Lista 3.csproj.SuggestedBindingRedirects.cache
+C:\Users\games\OneDrive\Área de Trabalho\Lista 3\obj\Debug\Lista 3.csproj.CoreCompileInputs.cache
+C:\Users\games\OneDrive\Área de Trabalho\Lista 3\obj\Debug\Lista 3.exe
+C:\Users\games\OneDrive\Área de Trabalho\Lista 3\obj\Debug\Lista 3.pdb
